@@ -1,2 +1,2 @@
 # hello-world
-Tutorial project
+It's a tutorial project
